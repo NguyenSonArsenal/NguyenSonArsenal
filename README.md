@@ -26,7 +26,7 @@ I'm currently diving deeper into **DevOps**, **Cloud**, and **large-scale data s
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-ffffff?logo=next.js&logoColor=black&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?logo=ant-design&logoColor=white&style=for-the-badge)
@@ -42,6 +42,11 @@ I'm currently diving deeper into **DevOps**, **Cloud**, and **large-scale data s
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+
+### 🧩 Version Control & Collaboration
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
 
 
 ## 📈 GitHub Stats
